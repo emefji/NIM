@@ -1,0 +1,14 @@
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.exe
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.deps.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.runtimeconfig.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.runtimeconfig.dev.json
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.dll
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\bin\Debug\netcoreapp3.1\NIM.pdb
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.AssemblyInfoInputs.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.AssemblyInfo.cs
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.dll
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.pdb
+C:\Users\alexa\OneDrive\Dokument\Programmering\C#\NIM 2.0\NIM\NIM\obj\Debug\netcoreapp3.1\NIM.genruntimeconfig.cache
